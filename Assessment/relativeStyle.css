@@ -33,6 +33,9 @@ h2{
 	border: solid black 1px;
 	padding:4px;
 	width:250px;
+	position: relative;
+	bottom:45px;
+	left: 335px;
 }
 
 p{
@@ -44,6 +47,9 @@ figure{
 	width:200px;
 	height:200px;
 	border: solid black 1px;
+	position: relative;
+	bottom: 250px;
+	left: 350px;
 
 }
 
