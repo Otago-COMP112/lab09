@@ -1,0 +1,14 @@
+div{
+	width:100px;
+	height:75px;
+	border:1px solid;
+	margin: 10px;
+	font-size:xx-large;
+	text-align:center;
+	padding-top:25px;
+	float:left;
+}
+
+.clear{
+	clear: left;
+}
